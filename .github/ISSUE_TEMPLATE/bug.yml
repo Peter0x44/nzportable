@@ -10,6 +10,8 @@ body:
 
         Additionally, please attach a video or image demonstrating the issue being presented as a comment below your submission.
 
+        **Note:** If your video is over the 10MB GitHub upload limit, you may compress it using [8mb.video](https://8mb.video).
+
         This is an English-only form.
   - type: dropdown
     id: model
